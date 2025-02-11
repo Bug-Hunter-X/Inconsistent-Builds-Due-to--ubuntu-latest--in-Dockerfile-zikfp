@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile error and its solution.  The original Dockerfile uses the `ubuntu:latest` tag, leading to inconsistent builds. The fixed version specifies a specific Ubuntu version for reliable builds.  See the comments in the Dockerfile and Dockerfile_fixed for details.
